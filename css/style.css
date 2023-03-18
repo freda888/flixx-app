@@ -225,7 +225,7 @@ section h2 {
 }
 
 .details-top img {
-  max-width: 400px;
+  width: 400px;
   height: 100%;
   margin-right: 60px;
   object-fit: cover;
